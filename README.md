@@ -1,4 +1,4 @@
-# nebula Nuke Bot! - by 0tro#6666
+# nebula Nuke Bot! - by BIG DOGE#8754
 
 to use do pip install -r requirements.txt
 
